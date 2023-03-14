@@ -16,7 +16,8 @@ public class Main {
         else{
             System.out.println(year + " ->" + "isn't a leap year!");
         }
-        // Double.valueOf(double d) is used to check whether the double value of year's quotient = integer value of year's quotient
+        // Double.valueOf(double d) is used to return the double instance of the entered double value
+        //and to check whether the double value of year's quotient = integer value of year's quotient
         // we get the integer value of year by casting it with integer.
 
 
